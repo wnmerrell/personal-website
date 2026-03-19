@@ -9,7 +9,7 @@ about:
       text: Email
       href: mailto:wmerrell@ps.au.dk
     - text: "CV"
-      href: "#"
+      href: "https://docs.google.com/document/d/1D-XhHOa9tuIj76mlPQodSLwbSvlDAktx/edit?usp=drive_link&ouid=107821746053919011512&rtpof=true&sd=true"
       icon: file-text
 ---
 
@@ -29,4 +29,6 @@ See the [Research](research.qmd) tab for publications and [Teaching & Mentoring]
 
 I have also been fortunate to teach and mentor many students in both classroom and lab settings. My pedagogical interests include equity-focused research methods teaching, debunking psychology myths, and examining evolutionary psychology in undergraduate curricula.
 
-Prior to my postdoctoral position and graduate studies, I received a BA in Economics and Psychology from Macalester College (Saint Paul, MN) and worked as a research analyst at The Brattle Group (Washington, DC). I grew up in Poughkeepsie, NY.
+Prior to my postdoctoral position and graduate studies, I received a BA in Economics and Psychology from Macalester College (Saint Paul, MN) and worked as a research analyst at The Brattle Group (Washington, DC). I grew up in Poughkeepsie, NY, a place primarily know for one of the longest walking bridges in the world, Vassar College, and an episode of *Friends*.
+
+Contact: wmerrell@ps.au.dk
