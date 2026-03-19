@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Wilson N. Merrell"
+  page-navigation: false
+  navbar:
+    background: white
+    foreground: dark
+    logo-alt: "Wilson N. Merrell"
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching-mentoring.qmd
+        text: Teaching & Mentoring
+    right:
+      - text: "Bluesky"
+        href: https://bsky.app/profile/wilsonmerrell.bsky.social
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

@@ -1,0 +1,32 @@
+---
+title: "Wilson N. Merrell"
+about:
+  template: trestles
+  image: images/portrait.jpg
+  image-alt: "Wilson N. Merrell"
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:wmerrell@ps.au.dk
+    - text: "CV"
+      href: "#"
+      icon: file-text
+---
+
+## Welcome!
+
+I'm Wilson, a postdoc within the [Center for the Experimental-Philosophical Study of Discrimination (CEPDISC)](https://cepdisc.au.dk/) at Aarhus University (Denmark) and guest researcher in the Department of Psychology at the University of Oslo (Norway).
+
+I received my PhD in social psychology from the University of Michigan in 2024.
+
+I study how people navigate social threats (like avoiding illness) and opportunities (like seeking status) in ways that shape interpersonal behavior and intergroup processes.
+
+My work focuses on two core puzzles: how people manage the tension between disease avoidance and social connection, and how they navigate group boundaries in contexts of status and hierarchy.
+
+I like to use a variety of methods in my work, including experiments, geospatial modeling, and visual reverse correlation, oftentimes drawing on theory from evolutionary biology, political science, and anthropology.
+
+See the [Research](research.qmd) tab for publications and [Teaching & Mentoring](teaching-mentoring.qmd) for educational experiences.
+
+I have also been fortunate to teach and mentor many students in both classroom and lab settings. My pedagogical interests include equity-focused research methods teaching, debunking psychology myths, and examining evolutionary psychology in undergraduate curricula.
+
+Prior to my postdoctoral position and graduate studies, I received a BA in Economics and Psychology from Macalester College (Saint Paul, MN) and worked as a research analyst at The Brattle Group (Washington, DC). I grew up in Poughkeepsie, NY.
