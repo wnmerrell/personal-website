@@ -53,56 +53,15 @@ body {
   border-color: #999;
 }
 
-/* ─── Research grid ─────────────────────────────────────────────── */
-.research-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2.5rem;
-  margin-top: 1.5rem;
-}
-
-.research-card {
-  border: 1px solid #e8e8e8;
-  border-radius: 6px;
-  overflow: hidden;
-  transition: box-shadow 0.2s ease;
-}
-
-.research-card:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-}
-
-.research-card img {
+/* ─── Research page banners ─────────────────────────────────────── */
+.research-banner {
   width: 100%;
+  max-width: 420px;
   height: 200px;
   object-fit: cover;
+  border-radius: 6px;
   display: block;
-}
-
-.research-card h3,
-.research-card p,
-.research-card a {
-  padding: 0 1.25rem;
-}
-
-.research-card h3 {
-  margin-top: 1rem;
-  font-size: 1.05rem;
-  font-weight: 600;
-}
-
-.research-card h3 a {
-  padding: 0;
-  color: #222;
-  text-decoration: none;
-}
-
-.research-card h3 a:hover {
-  color: #2780e3;
-}
-
-.research-card p:last-child {
-  padding-bottom: 1.25rem;
+  margin-bottom: 1rem;
 }
 
 /* ─── Publication lists ─────────────────────────────────────────── */
@@ -112,17 +71,6 @@ body {
 
 p + p {
   margin-top: 0.25rem;
-}
-
-/* Back-link styling */
-a[href="research.qmd"] {
-  font-size: 0.9rem;
-  color: #555;
-  text-decoration: none;
-}
-
-a[href="research.qmd"]:hover {
-  color: #2780e3;
 }
 
 /* ─── General link colors ────────────────────────────────────────── */
