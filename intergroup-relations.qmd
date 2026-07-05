@@ -11,17 +11,44 @@ Investigating the conditions under which people cooperate across group lines or 
 
 ## Published Articles
 
+::: {.pub-entry}
+::: {.pub-citation}
+Vossoughi, N., Merrell, W., Kteily, N., Ho, A. (2026). The Role of Egalitarian Ideology in System-Challenging Collective Action among Members of Dominant and Marginalized Racial Groups. *Personality and Social Psychology Bulletin.* <https://doi.org/10.1177/01461672261427820>
+:::
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/01461672261427820" class="altmetric-embed"></div>
+:::
+
+::: {.pub-entry}
+::: {.pub-citation}
 Merrell, W.\*, Fan, L.\*, Sheehy-Skeffington, J., Thomsen, L. (2025). Resource possession in the mind's eye: Ideological convergence and divergence in the perceptions of poor people. *Personality and Social Psychology Bulletin.* <https://doi.org/10.1177/01461672251371787>
+:::
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/01461672251371787" class="altmetric-embed"></div>
+:::
 
+::: {.pub-entry}
+::: {.pub-citation}
 Merrell, W., Ackerman, J. (2025). Flaunting Porsches or Paris? Comparing the social signaling value of experiential and material conspicuous consumption. *Personality and Social Psychology Bulletin.* <https://doi.org/10.1177/01461672251331658>
+:::
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/01461672251331658" class="altmetric-embed"></div>
+:::
 
+::: {.pub-entry}
+::: {.pub-citation}
 Merrell, W., Vossoughi, N., Kteily, N., Ho, A. (2024). Looking White but feeling Asian: The role of perceived membership permeability and perceived discrimination in multiracial-monoracial alliances. *Personality and Social Psychology Bulletin.* <https://doi.org/10.1177/01461672241267332>
+:::
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/01461672241267332" class="altmetric-embed"></div>
+:::
+
+::: {.pub-entry}
+::: {.pub-citation}
+Fessler, D.\*, Merrell, W.\*, Holbrook, C., Ackerman, J. (2023). Beware the foe who feels no pain: Relationships between relative formidability and pain sensitivity in U.S. online samples. *Evolution and Human Behavior.* <https://doi.org/10.1016/j.evolhumbehav.2022.11.003>
+:::
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.evolhumbehav.2022.11.003" class="altmetric-embed"></div>
+:::
 
 ---
 
 ## Selected Work Under Review / In Preparation
-
-Vossoughi, N., Merrell, W., Kteily, N., Ho, A. (Revise & Resubmit). Incorporating egalitarian ideology in models of collective action. *Personality and Social Psychology Bulletin.*
 
 Merrell, W., Fan, L., Sheehy-Skeffington, J., Thomsen, L. (Under review, Stage 1 registered report). Height, hierarchy, and humanity: A registered replication and extension of Kunst et al. (2019).
 
