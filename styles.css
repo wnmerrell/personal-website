@@ -141,6 +141,24 @@ hr {
   margin: 2rem 0;
 }
 
+/* ─── Publication entries with Altmetric badges ─────────────────── */
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.pub-entry .pub-citation {
+  flex: 1;
+}
+
+.pub-entry .altmetric-embed {
+  flex-shrink: 0;
+  margin-top: 0.15rem;
+}
+
 /* ─── Footer ────────────────────────────────────────────────────── */
 .nav-footer {
   border-top: 1px solid #e8e8e8;
