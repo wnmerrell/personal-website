@@ -1,5 +1,6 @@
 ---
 title: "Wilson N. Merrell"
+page-layout: full
 about:
   template: trestles
   image: images/portrait.jpg

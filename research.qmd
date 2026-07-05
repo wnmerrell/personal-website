@@ -1,6 +1,6 @@
 ---
 title: "Research"
-page-layout: article
+page-layout: full
 ---
 
 My work addresses two core questions about human social behavior:

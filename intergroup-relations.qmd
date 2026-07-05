@@ -1,6 +1,6 @@
 ---
 title: "Navigating intergroup boundaries, solidarity, and conflict"
-page-layout: article
+page-layout: full
 ---
 
 [← Back to Research](research.qmd)

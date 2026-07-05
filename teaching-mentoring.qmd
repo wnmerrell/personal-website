@@ -1,6 +1,6 @@
 ---
 title: "Teaching & Mentoring"
-page-layout: article
+page-layout: full
 ---
 
 ## Classroom Teaching
