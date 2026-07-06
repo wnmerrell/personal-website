@@ -11,15 +11,13 @@ My work addresses two core questions about human social behavior:
 
 ::: {.research-column}
 
-## Navigating intergroup boundaries, solidarity, and conflict
+## Social hierarchy in places, faces, and groups
 
 ![](images/research-intergroup.jpg){.research-banner}
 
-Investigating the conditions under which people cooperate across group lines or reinforce status hierarchies.
+<details>
 
-*Keywords: intergroup relations, hierarchy, status, solidarity, collective action*
-
-### Published Articles
+<summary>Published Articles</summary>
 
 ::: {.pub-entry}
 ::: {.pub-citation}
@@ -56,7 +54,11 @@ Fessler, D.\*, **Merrell, W.**\*, Holbrook, C., Ackerman, J. (2023). Beware the 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.evolhumbehav.2022.11.003" class="altmetric-embed"></div>
 :::
 
-### Selected Work Under Review / In Preparation
+</details>
+
+<details>
+
+<summary>Selected Work Under Review / In Preparation</summary>
 
 **Merrell, W.**, Fan, L., Sheehy-Skeffington, J., Thomsen, L. (In principle acceptance). Height, hierarchy, and humanity: A registered replication and extension of Kunst et al. (2019). *Social Psychological & Personality Science.*
 
@@ -78,19 +80,19 @@ Chaar, R.+, Pischel, K.+, Giritlioglu, A., **Merrell, W.**, Fessler, D. (In prep
 
 \+ Undergraduate student collaborator
 
+</details>
+
 :::
 
 ::: {.research-column}
 
-## Social behavior in the context of disease threat
+## Psychology of infectious illness and sickness behavior
 
 ![](images/research-disease.jpg){.research-banner}
 
-Exploring how people balance the tradeoff between pathogen avoidance and social affiliation.
+<details>
 
-*Keywords: behavioral immune system, sickness behavior, pathogen management, disease concealment*
-
-### Published Articles
+<summary>Published Articles</summary>
 
 ::: {.pub-entry}
 ::: {.pub-citation}
@@ -127,7 +129,11 @@ Ackerman, J., **Merrell, W.**, Choi, S. (2020). What people believe about detect
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.cresp.2020.100002" class="altmetric-embed"></div>
 :::
 
-### Selected Work Under Review / In Preparation
+</details>
+
+<details>
+
+<summary>Selected Work Under Review / In Preparation</summary>
 
 **Merrell, W.**, Meyer, M.^, Sabree, K.^, Gonzalez, R., Ackerman, J. (In preparation). Widespread disease concealment is linked to fears of social exclusion across societies.
 
@@ -138,6 +144,8 @@ Fan, L.\*, **Merrell, W.**\*, Donner, M., Ackerman, J., Tybur, J. (In preparatio
 \* Represents equally shared first authorship
 
 \^ Graduate student collaborator
+
+</details>
 
 :::
 

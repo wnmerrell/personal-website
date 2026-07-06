@@ -104,6 +104,39 @@ hr {
   margin: 2rem 0;
 }
 
+/* ─── Collapsible publication sections ──────────────────────────── */
+details {
+  margin: 1.5rem 0;
+  border-top: 1px solid #e8e8e8;
+  padding-top: 0.75rem;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.05rem;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1em;
+  transition: transform 0.15s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details summary ~ * {
+  margin-top: 1rem;
+}
+
 /* ─── Publication entries with Altmetric badges ─────────────────── */
 .pub-entry {
   display: flex;
