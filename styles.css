@@ -53,6 +53,14 @@ body {
   border-color: #999;
 }
 
+/* ─── Research page two-column layout ───────────────────────────── */
+.research-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 3rem;
+  align-items: start;
+}
+
 /* ─── Research page banners ─────────────────────────────────────── */
 .research-banner {
   width: 100%;
