@@ -76,6 +76,8 @@ Chaar, R.+, Pischel, K.+, Giritlioglu, A., **Merrell, W.**, Fessler, D. (In prep
 
 \* Represents equally shared first authorship
 
+\+ Undergraduate student collaborator
+
 :::
 
 ::: {.research-column}
@@ -134,6 +136,8 @@ Ackerman, J., **Merrell, W.**, Choi, S. (2020). What people believe about detect
 Fan, L.\*, **Merrell, W.**\*, Donner, M., Ackerman, J., Tybur, J. (In preparation). From whom do we hide our sickness? Interpersonal value and the selective concealment of infectious illness.
 
 \* Represents equally shared first authorship
+
+\^ Graduate student collaborator
 
 :::
 

@@ -57,8 +57,15 @@ body {
 .research-columns {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  gap: 3rem;
+  gap: 4rem;
   align-items: start;
+}
+
+@media (min-width: 768px) {
+  .research-column + .research-column {
+    border-left: 1px solid #d8d8d8;
+    padding-left: 2.5rem;
+  }
 }
 
 /* ─── Research page banners ─────────────────────────────────────── */
