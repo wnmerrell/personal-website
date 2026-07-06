@@ -1,10 +1,6 @@
 ---
-title: "Research"
+pagetitle: "Research"
 page-layout: full
----
-
-My work addresses two core questions about human social behavior:
-
 ---
 
 ::: {.research-columns}
