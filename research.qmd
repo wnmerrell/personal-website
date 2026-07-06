@@ -7,6 +7,10 @@ My work addresses two core questions about human social behavior:
 
 ---
 
+::: {.research-columns}
+
+::: {.research-column}
+
 ## Navigating intergroup boundaries, solidarity, and conflict
 
 ![](images/research-intergroup.jpg){.research-banner}
@@ -66,7 +70,9 @@ Merrell, W. (In preparation). Experiential vs. material conspicuous consumption 
 
 \* Represents equally shared first authorship
 
----
+:::
+
+::: {.research-column}
 
 ## Social behavior in the context of disease threat
 
@@ -124,3 +130,7 @@ Ackerman, J., Merrell, W. (In preparation). Fear of exclusion and exploitation a
 Fan, L., Merrell, W., Donner, M., Ackerman, J., Tybur, J. (In preparation). Risking sickness for thee but not for me: Interpersonal value drives illness concealment and infection-risky contact decisions.
 
 \* Represents equally shared first authorship
+
+:::
+
+:::
