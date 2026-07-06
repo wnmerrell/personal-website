@@ -9,12 +9,17 @@ about:
     - icon: envelope
       text: Email
       href: mailto:wmerrell@ps.au.dk
+      target: "_blank"
     - text: "CV"
       href: "https://docs.google.com/document/d/1D-XhHOa9tuIj76mlPQodSLwbSvlDAktx/edit?usp=drive_link&ouid=107821746053919011512&rtpof=true&sd=true"
       icon: file-text
+      target: "_blank"
+      rel: "noopener"
     - text: "Google Scholar"
       href: "https://scholar.google.com/citations?user=fwDh3l4AAAAJ&hl=en"
       icon: mortarboard-fill
+      target: "_blank"
+      rel: "noopener"
 ---
 
 ## Welcome!
