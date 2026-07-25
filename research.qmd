@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.research-columns}
 
-::: {.research-column}
+::: {.research-column .hierarchy}
 
 ## Social hierarchy in places, faces, and groups
 
@@ -80,7 +80,7 @@ Chaar, R.+, Pischel, K.+, Giritlioglu, A., **Merrell, W.**, Fessler, D. (In prep
 
 :::
 
-::: {.research-column}
+::: {.research-column .disease}
 
 ## Psychology of infectious illness and sickness behavior
 
