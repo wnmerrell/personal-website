@@ -24,6 +24,41 @@ body {
   color: var(--accent-disease);
 }
 
+/* ─── At a Glance block ──────────────────────────────────────────── */
+.at-a-glance {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.glance-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+
+.glance-line {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 0.3rem 0;
+}
+
+.glance-line.hierarchy {
+  color: var(--accent-hierarchy);
+}
+
+.glance-line.disease {
+  color: var(--accent-disease);
+}
+
+.glance-line.pedagogy {
+  color: #444;
+}
+
 /* ─── Navbar ────────────────────────────────────────────────────── */
 .navbar {
   border-bottom: 1px solid #e8e8e8;
@@ -113,6 +148,15 @@ body {
 
 .research-column.disease details summary::before {
   color: var(--accent-disease);
+}
+
+/* ─── Teaching page banner ───────────────────────────────────────── */
+.teaching-banner {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 6px;
+  display: block;
+  margin-bottom: 1.5rem;
 }
 
 /* ─── Research page banners ─────────────────────────────────────── */
