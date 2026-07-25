@@ -6,6 +6,24 @@ body {
   color: #222;
 }
 
+/* ─── Research-program accent colors ────────────────────────────── */
+:root {
+  --accent-hierarchy: #b5822e;
+  --accent-disease: #2a7f7a;
+}
+
+.lead-in {
+  font-weight: 700;
+}
+
+.lead-in.hierarchy {
+  color: var(--accent-hierarchy);
+}
+
+.lead-in.disease {
+  color: var(--accent-disease);
+}
+
 /* ─── Navbar ────────────────────────────────────────────────────── */
 .navbar {
   border-bottom: 1px solid #e8e8e8;
@@ -66,6 +84,35 @@ body {
     border-left: 1px solid #d8d8d8;
     padding-left: 2.5rem;
   }
+}
+
+.research-column {
+  border-top: 3px solid transparent;
+  padding-top: 1.25rem;
+}
+
+.research-column.hierarchy {
+  border-top-color: var(--accent-hierarchy);
+}
+
+.research-column.disease {
+  border-top-color: var(--accent-disease);
+}
+
+.research-column.hierarchy h2 {
+  color: var(--accent-hierarchy);
+}
+
+.research-column.disease h2 {
+  color: var(--accent-disease);
+}
+
+.research-column.hierarchy details summary::before {
+  color: var(--accent-hierarchy);
+}
+
+.research-column.disease details summary::before {
+  color: var(--accent-disease);
 }
 
 /* ─── Research page banners ─────────────────────────────────────── */
