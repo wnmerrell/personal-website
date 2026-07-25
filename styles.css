@@ -27,6 +27,7 @@ body {
 /* ─── At a Glance block ──────────────────────────────────────────── */
 .at-a-glance {
   margin-top: 1.5rem;
+  text-align: left;
 }
 
 .glance-label {
@@ -152,7 +153,7 @@ body {
 /* ─── Teaching page layout ───────────────────────────────────────── */
 .teaching-layout {
   display: grid;
-  grid-template-columns: 1fr 200px;
+  grid-template-columns: 1fr 350px;
   gap: 2.5rem;
   align-items: start;
 }
@@ -171,7 +172,7 @@ body {
   }
 
   .teaching-photo-col {
-    max-width: 200px;
+    max-width: 350px;
   }
 }
 
