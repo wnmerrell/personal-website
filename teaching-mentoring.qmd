@@ -5,7 +5,9 @@ page-layout: full
 
 ## Classroom Teaching
 
-### Instructor of Record
+<details open>
+
+<summary>Instructor of Record</summary>
 
 **Promoting Change through Social Psychology** — MA seminar, University of Oslo (Global Mobility, Inclusion, and Diversity in Society program); co-taught with Dr. Thomas Schubert and Dr. Charles Samuelson [Spring 2025; no student evaluations]
 
@@ -13,9 +15,11 @@ page-layout: full
 
 **Separating Fact from Fiction in Psychological Science** — First-year BA writing-intensive seminar developed at the University of Michigan's Sweetland Center for Writing. [[Syllabus](https://drive.google.com/)] [[Assignments](https://drive.google.com/)] [Fall 2021; median evaluation: 5.0/5.0]
 
----
+</details>
 
-### Graduate Student Instructor
+<details open>
+
+<summary>Graduate Student Instructor</summary>
 
 **Research Methods in Psychology** (Lab instructor) — Winter 2020 & Fall 2020, taught two lab sections per semester [median evaluation: 4.9/5.0]
 
@@ -25,32 +29,46 @@ Co-created three critical pedagogy modules with Nadia Vossoughi and Colin Seifer
 
 **Introduction to Psychology** (Graduate Student Instructor) — Winter 2021 [no student evaluations]
 
----
+</details>
 
-### Honors & Awards
+<details open>
+
+<summary>Honors & Awards</summary>
 
 **Provost's Teaching Innovation Prize** (2021), University of Michigan — annually recognizes the most innovative pedagogical projects across the University; awarded for "Inclusive Teaching in Research Methods Courses"
 
 **Graduate Teacher Certificate** (2024), University of Michigan
 
----
+</details>
 
 ## Research Mentoring
 
-### Dissertation/Thesis Committees
+<details>
+
+<summary>Dissertation/Thesis Committees</summary>
 
 External examiner, Rikke Haudrum Rasmussen, Doctoral Dissertation Pre-Defense, University of Copenhagen (2026)
 
-### Independent Research Advising
+</details>
+
+<details>
+
+<summary>Independent Research Advising</summary>
 
 - **Ariella Kushner** (2021–2022): Infectious disease concealment research; honors thesis co-advised with Dr. Josh Ackerman — "To sneeze or not to sneeze: The interpersonal consequences of infectious disease concealment"
 - **Ariella Kushner** (2020): Directed advanced research on social harm and infectious disease concealment
 - **William Gonzalez** (2021): Directed advanced research on lay beliefs about scent and social class
 
-### Lab-Based Research Advising
+</details>
+
+<details>
+
+<summary>Lab-Based Research Advising</summary>
 
 **Evolutionary Social Psychology Lab** (Dr. Josh Ackerman, University of Michigan):
 Haley Henry, Cara Jhang, Jian Sun, Tessa Woryk, Caitlin Hoyng, Julia Salamango (2019); Ariella Kushner, Emmaleigh Krause, Lily Jankowiak (2020); Rachel Annex, William Gonzalez (Winter 2022); Yat Sum Leung, Dylan Selkin, Victoria Treder (Fall 2022); Arin Hirsch, Caitlin Fagel (Winter 2023)
 
 **Mind in Society Lab** (Dr. Nick Camp, University of Michigan):
 Lee Hickman, Samantha Cole, Yi (Bella) Jin, Manjiang Shen (2022)
+
+</details>
