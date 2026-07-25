@@ -22,6 +22,16 @@ about:
       rel: "noopener"
 ---
 
+::: {.at-a-glance}
+<div class="glance-label">At a Glance</div>
+
+[Social hierarchies, intergroup relations, status signaling, social identity]{.glance-line .hierarchy}
+
+[Psychology of infectious disease, sickness behavior, behavioral immune system]{.glance-line .disease}
+
+[Equity-focused teaching, debunking psychology myths, assessment design in the LLM era]{.glance-line .pedagogy}
+:::
+
 ## Welcome!
 
 I'm Wilson, a postdoc within the [Center for the Experimental-Philosophical Study of Discrimination (CEPDISC)](https://cepdisc.au.dk/) at Aarhus University (Denmark) and guest researcher in the Department of Psychology at the University of Oslo (Norway). I received my PhD in social psychology from the University of Michigan in 2024.
