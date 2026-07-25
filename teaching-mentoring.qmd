@@ -5,9 +5,9 @@ page-layout: full
 
 ## Classroom Teaching
 
-<details open>
+<details>
 
-<summary>Instructor of Record</summary>
+<summary>Courses (Instructor of Record)</summary>
 
 **Promoting Change through Social Psychology** — MA seminar, University of Oslo (Global Mobility, Inclusion, and Diversity in Society program); co-taught with Dr. Thomas Schubert and Dr. Charles Samuelson [Spring 2025; no student evaluations]
 
@@ -17,9 +17,9 @@ page-layout: full
 
 </details>
 
-<details open>
+<details>
 
-<summary>Graduate Student Instructor</summary>
+<summary>Courses (Graduate Student Instructor)</summary>
 
 **Research Methods in Psychology** (Lab instructor) — Winter 2020 & Fall 2020, taught two lab sections per semester [median evaluation: 4.9/5.0]
 
@@ -31,13 +31,13 @@ Co-created three critical pedagogy modules with Nadia Vossoughi and Colin Seifer
 
 </details>
 
-<details open>
+<details>
 
-<summary>Honors & Awards</summary>
-
-**Provost's Teaching Innovation Prize** (2021), University of Michigan — annually recognizes the most innovative pedagogical projects across the University; awarded for "Inclusive Teaching in Research Methods Courses"
+<summary>Teaching Certificates and Awards</summary>
 
 **Graduate Teacher Certificate** (2024), University of Michigan
+
+**Provost's Teaching Innovation Prize** (2021), University of Michigan — annually recognizes the most innovative pedagogical projects across the University; awarded for "Inclusive Teaching in Research Methods Courses"
 
 </details>
 
