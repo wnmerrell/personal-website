@@ -40,7 +40,7 @@ include-after-body:
 
 [Psychology of infectious disease; sickness behavior; behavioral immune system]{.glance-line .disease}
 
-[Equity-focused teaching; debunking psychology myths; ungrading; oral evaluations; meta-cognitive assessment]{.glance-line .pedagogy}
+[Equity-focused teaching; debunking psychology myths; ungrading, oral evaluations, meta-cognitive assessment]{.glance-line .pedagogy}
 :::
 
 ## Welcome!
