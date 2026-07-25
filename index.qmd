@@ -24,20 +24,20 @@ about:
 
 ## Welcome!
 
-I'm Wilson, a postdoc within the [Center for the Experimental-Philosophical Study of Discrimination (CEPDISC)](https://cepdisc.au.dk/) at Aarhus University (Denmark) and guest researcher in the Department of Psychology at the University of Oslo (Norway).
+I'm Wilson, a postdoc within the [Center for the Experimental-Philosophical Study of Discrimination (CEPDISC)](https://cepdisc.au.dk/) at Aarhus University (Denmark) and guest researcher in the Department of Psychology at the University of Oslo (Norway). I received my PhD in social psychology from the University of Michigan in 2024.
 
-I received my PhD in social psychology from the University of Michigan in 2024.
+A coworker's Hermès bag, a Whole Foods in a gentrifying neighborhood, and a stranger's Yankees hat each offer clues to social rank and group identity. We decode cues like these effortlessly because navigating hierarchies — group-based asymmetries in rank, resources, and influence — is one of the fundamental social problems the mind is equipped to solve. My research traces the signatures of a shared cognitive framework for reading hierarchy across three levels at which social life is organized: the *places* we inhabit, the *faces* we perceive, and the *groups* we belong to. A parallel program extends this same attention to consensual, cross-cultural regularities into a different domain: how people manage one of social life's oldest threats, infectious illness.
 
-I study how people navigate social threats (like avoiding illness) and opportunities (like seeking status) in ways that shape interpersonal behavior and intergroup processes.
+In the hierarchy program, I ask how the spatial clustering of resources ("patchiness") shapes perceptions of *places*, how reverse-correlated visual templates reveal who people picture as rich, poor, or powerful in their *faces*, and how coalition boundaries are drawn and contested among *groups*, with a focus on multiracial Americans. Across all three levels, I find a striking degree of consensus in these perceptions, often independent of political ideology.
 
-My work focuses on two core puzzles: how people manage the tension between disease avoidance and social connection, and how they navigate group boundaries in contexts of status and hierarchy.
+The disease program centers on concealment: the widespread, cross-culturally consistent tendency to hide signs of one's own illness from others. I'm now working to quantify its consequences for disease spread and to test interventions that reduce it.
 
-I like to use a variety of methods in my work, including experiments, geospatial modeling, and visual reverse correlation, oftentimes drawing on theory from evolutionary biology, political science, and anthropology.
+Across both programs, I favor methods that reveal what people perceive rather than what they report — geospatial mapping, visual reverse correlation, and agent-based modeling — and draw on behavioral ecology, evolutionary biology, and political science to explain why these patterns emerge, with an emphasis on populations beyond the usual samples.
 
-See the [Research](research.qmd) tab for publications and [Teaching & Mentoring](teaching-mentoring.qmd) for educational experiences.
+See the [Research](research.qmd) tab for publications.
 
-I have also been fortunate to teach and mentor many students in both classroom and lab settings. My pedagogical interests include equity-focused research methods teaching, debunking psychology myths, and examining evolutionary psychology in undergraduate curricula.
+I have also been fortunate to teach and mentor many students in both classroom and lab settings. My pedagogical interests include equity-focused research methods teaching, debunking psychology myths, and examining evolutionary psychology in undergraduate curricula. See [Teaching & Mentoring](teaching-mentoring.qmd) for more.
 
-Prior to my postdoctoral position and graduate studies, I received a BA in Economics and Psychology from Macalester College (Saint Paul, MN) and worked as a research analyst at The Brattle Group (Washington, DC). I grew up in Poughkeepsie, NY, a place primarily know for one of the longest walking bridges in the world, Vassar College, and an episode of *Friends*.
+Prior to my postdoctoral position and graduate studies, I received a BA in Economics and Psychology from Macalester College (Saint Paul, MN) and worked as a research analyst at The Brattle Group (Washington, DC). I grew up in Poughkeepsie, NY, a place primarily known for one of the longest walking bridges in the world, Vassar College, and an episode of *Friends*.
 
 Contact: wmerrell@ps.au.dk
