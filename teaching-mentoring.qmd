@@ -3,7 +3,9 @@ title: "Teaching & Mentoring"
 page-layout: full
 ---
 
-![](images/image.png){.teaching-banner}
+::: {.teaching-layout}
+
+::: {.teaching-main}
 
 As a teacher and mentor I aim to help students become more critical consumers of social science and better social science communicators. In the classroom, I work to equip students with tools that bridge the gap between a natural curiosity in human behavior and a systematic science that allows us to study it. In the lab, I enjoy collaborating with students across every stage of the research process, including brainstorming study ideas, leading participant recruitment, cleaning and analyzing data, and building presentations and papers that communicate our findings.
 
@@ -76,3 +78,11 @@ Haley Henry, Cara Jhang, Jian Sun, Tessa Woryk, Caitlin Hoyng, Julia Salamango (
 Lee Hickman, Samantha Cole, Yi (Bella) Jin, Manjiang Shen (2022)
 
 </details>
+
+:::
+
+::: {.teaching-photo-col}
+![](images/image.png)
+:::
+
+:::

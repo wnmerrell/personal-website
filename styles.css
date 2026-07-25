@@ -26,9 +26,7 @@ body {
 
 /* ─── At a Glance block ──────────────────────────────────────────── */
 .at-a-glance {
-  margin-bottom: 1.75rem;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid #e8e8e8;
+  margin-top: 1.5rem;
 }
 
 .glance-label {
@@ -42,9 +40,10 @@ body {
 
 .glance-line {
   display: block;
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   font-weight: 600;
-  margin: 0.3rem 0;
+  line-height: 1.4;
+  margin: 0.4rem 0;
 }
 
 .glance-line.hierarchy {
@@ -150,13 +149,30 @@ body {
   color: var(--accent-disease);
 }
 
-/* ─── Teaching page banner ───────────────────────────────────────── */
-.teaching-banner {
+/* ─── Teaching page layout ───────────────────────────────────────── */
+.teaching-layout {
+  display: grid;
+  grid-template-columns: 1fr 200px;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.teaching-photo-col img {
   width: 100%;
-  max-width: 600px;
   border-radius: 6px;
   display: block;
-  margin-bottom: 1.5rem;
+  position: sticky;
+  top: 1.5rem;
+}
+
+@media (max-width: 767px) {
+  .teaching-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-photo-col {
+    max-width: 200px;
+  }
 }
 
 /* ─── Research page banners ─────────────────────────────────────── */
