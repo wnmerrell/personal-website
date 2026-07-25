@@ -156,9 +156,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="glance-label">
 At a Glance
 </div>
-<p><span class="glance-line hierarchy">Social hierarchies, intergroup relations, status signaling, social identity</span></p>
-<p><span class="glance-line disease">Psychology of infectious disease, sickness behavior, behavioral immune system</span></p>
-<p><span class="glance-line pedagogy">Equity-focused teaching, debunking psychology myths, assessment design in the LLM era</span></p>
+<p><span class="glance-line hierarchy">Social hierarchies; intergroup relations; status signaling; social identity</span></p>
+<p><span class="glance-line disease">Psychology of infectious disease; sickness behavior; behavioral immune system</span></p>
+<p><span class="glance-line pedagogy">Equity-focused teaching; debunking psychology myths; ungrading; oral evaluations; meta-cognitive assessment</span></p>
 </div>
 <section id="welcome" class="level2">
 <h2 data-anchor-id="welcome">Welcome!</h2>
@@ -569,8 +569,15 @@ At a Glance
   });
   </script>
 </div> <!-- /content -->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script data-goatcounter="https://wilsonmerrell.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var glance = document.querySelector('.at-a-glance');
+  var links = document.querySelector('.about-links');
+  if (glance && links) {
+    links.insertAdjacentElement('afterend', glance);
+  }
+});
+</script>
 
 
 
