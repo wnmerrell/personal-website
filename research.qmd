@@ -50,13 +50,19 @@ Fessler, D.\*, **Merrell, W.**\*, Holbrook, C., Ackerman, J. (2023). Beware the 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.evolhumbehav.2022.11.003" class="altmetric-embed"></div>
 :::
 
+::: {.pub-entry}
+::: {.pub-citation}
+Ackerman, J., **Merrell, W.**, Williams, L. (2024). Social cognition and consumer psychology. In D. Carlston, K. Johnson, & K. Hugenberg (Eds.), *The Oxford Handbook of Social Cognition* (2nd ed.). Oxford University Press. <https://doi.org/10.1093/oxfordhb/9780197763414.013.35>
+:::
+:::
+
 </details>
 
 <details>
 
 <summary>Selected Work Under Review / In Preparation</summary>
 
-**Merrell, W.**, Fan, L., Sheehy-Skeffington, J., Thomsen, L. (In principle acceptance). Height, hierarchy, and humanity: A registered replication and extension of Kunst et al. (2019). *Social Psychological & Personality Science.*
+**Merrell, W.**, Fan, L., Sheehy-Skeffington, J., Thomsen, L. (In principle acceptance, Stage 1 Registered Report). Height, hierarchy, and humanity: A registered replication and extension of Kunst et al. (2019). *Social Psychological & Personality Science.*
 
 **Merrell, W.**, Fan, L., Sheehy-Skeffington, J., Thomsen, L. (Conditional acceptance). The folk psychology of spatial resource patchiness and social hierarchy. *Journal of Experimental Psychology: General.*
 
@@ -133,7 +139,7 @@ Ackerman, J., **Merrell, W.**, Choi, S. (2020). What people believe about detect
 
 **Merrell, W.**, Sabree, K.^, Meyer, M.^, Ackerman, J. (In preparation). Disease concealment is ubiquitous but its prevalence is underestimated by public health experts.
 
-**Merrell, W.**, Zubaly, B., Ackerman, J. (In preparation). Fear of exclusion and exploitation as motivational drivers of infectious disease concealment.
+**Merrell, W.**, Zubaly, B.^, Ackerman, J. (In preparation). Fear of exclusion and exploitation as motivational drivers of infectious disease concealment.
 
 Fan, L.\*, **Merrell, W.**\*, Donner, M., Ackerman, J., Tybur, J. (In preparation). From whom do we hide our sickness? Interpersonal value and the selective concealment of infectious illness.
 
